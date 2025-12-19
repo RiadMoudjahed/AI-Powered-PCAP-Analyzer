@@ -1,0 +1,11 @@
+# AI-Powered PCAP Analyzer - Requirements
+# Python 3.7+ required
+
+# Core packet analysis
+scapy>=2.5.0
+
+# HTTP requests for Ollama API
+requests>=2.28.0
+
+# Optional: Better performance for large files
+# pypcap>=1.3.0  # Uncomment for better PCAP reading performance
