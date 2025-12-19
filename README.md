@@ -208,9 +208,6 @@ Works with any Ollama model:
 
 Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## ⚠️ Disclaimer
 
