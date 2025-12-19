@@ -37,7 +37,7 @@ ollama pull mistral
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-pcap-analyzer.git
+https://github.com/RiadMoudjahed/AI-Powered-PCAP-Analyzer.git
 cd ai-pcap-analyzer
 
 # Install dependencies
