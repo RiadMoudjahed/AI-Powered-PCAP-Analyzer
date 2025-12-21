@@ -1,14 +1,15 @@
-<p align="center">
+<div align="center">
+
+# 🔒 AI-Powered PCAP Analyzer for SOC Operations
+  
   <img
     width="480"
     height="480"
     alt="Image"
     src="https://github.com/user-attachments/assets/9f640abc-94be-478f-aee2-7b3cdad0e575"
   />
-</p>
+</div>
 
-
-# 🔒 AI-Powered PCAP Analyzer for SOC Operations
 
 A powerful Python tool that leverages AI to analyze network traffic captures (PCAP files) and identify security threats. Built for Security Operations Center (SOC) analysts, penetration testers, and network security professionals.
 
